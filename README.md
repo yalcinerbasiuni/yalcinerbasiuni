@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am interesting on Machine and Deep Learning, Optimization, Computer Vision, Generative AI and MLOps
+
 <!--
 **yalcinerbasiuni/yalcinerbasiuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
